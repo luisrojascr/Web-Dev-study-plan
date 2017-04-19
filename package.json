@@ -1,0 +1,15 @@
+{
+  "name": "web-dev-study-plan",
+  "version": "1.0.0",
+  "description": "Web Developer Study Plan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Rojas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jade": "^1.11.0"
+  }
+}
